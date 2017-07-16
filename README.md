@@ -11,5 +11,9 @@
 地址：http://antdtest.oschina.mopaasapp.com/#/  （https无法访问http接口，所以不使用 https://fengnovo.github.io/demo/02/index.html  坑）
 
 3.演示react实现cnodejs.org
-地址：https://fengnovo.github.io/demo/04/index.html 
+地址：https://fengnovo.github.io/demo/04/index.html
+
+4.vue学习
+地址：https://fengnovo.github.io/demo/05/index.html  
+ 
 ...
