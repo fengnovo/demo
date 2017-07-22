@@ -10,10 +10,18 @@
 2.演示antd+react实现新闻列表，桌面端移动端  
 地址：http://antdtest.oschina.mopaasapp.com/#/  （https无法访问http接口，所以不使用 https://fengnovo.github.io/demo/02/index.html  坑）
 
-3.演示react实现cnodejs.org
-地址：https://fengnovo.github.io/demo/04/index.html
+3.vue学习
+地址：https://fengnovo.github.io/demo/04/index.html 
 
-4.vue学习
-地址：https://fengnovo.github.io/demo/05/index.html  
+4.演示react实现cnodejs.org
+地址：https://fengnovo.github.io/demo/cnode-react/index.html
+
+5.演示angular2实现cnodejs.org
+地址：https://fengnovo.github.io/demo/cnode-ng2/index.html
+
+6.演示vue2实现cnodejs.org
+地址：https://fengnovo.github.io/demo/cnode-vue/index.html
+
+ 
  
 ...
