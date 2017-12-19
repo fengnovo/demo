@@ -1,0 +1,2 @@
+webpackJsonp([5],{197:function(e,n,t){var r=t(10)(t(205),t(206),null,null);e.exports=r.exports},205:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default={name:"HelloWorld",data:function(){return{name:"这是来自helloWorld模板"}}}},206:function(e,n){e.exports={render:function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n  "+e._s(e.name)+"\n")])},staticRenderFns:[]}}});
+//# sourceMappingURL=5.941026673c7a0e7efb3b.js.map
