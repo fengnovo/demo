@@ -2,7 +2,6 @@ module.exports = {
     title: 'Demo',
     description: 'Demo页面',
     theme: 'reco',
-    base: '/demo/',
     themeConfig: {
         subSidebar: 'auto',
         nav: [
