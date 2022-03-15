@@ -12,7 +12,11 @@ cd docs/.vuepress/dist
 git add -A
 git commit -m 'deploy'
 
+git config fengnovo
+
+git config fengnoku@gmail.comsgmail.coms
+
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:fengnovo/demo.git master
+git push -f git@github.com:fengnovo/demo.git master:gh-pages
 
 cd -
